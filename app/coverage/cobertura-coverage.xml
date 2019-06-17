@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
-<coverage lines-valid="35" lines-covered="33" line-rate="0.9429000000000001" branches-valid="4" branches-covered="3" branch-rate="0.75" timestamp="1560754318792" complexity="0" version="0.1">
+<coverage lines-valid="35" lines-covered="33" line-rate="0.9429000000000001" branches-valid="4" branches-covered="3" branch-rate="0.75" timestamp="1560763735902" complexity="0" version="0.1">
   <sources>
     <source>/home/bridgeit/Documents/workspace-spring-tool-suite-4-4.2.0.RELEASE/sonarqube-setup/app</source>
   </sources>

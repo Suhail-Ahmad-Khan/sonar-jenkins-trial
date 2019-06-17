@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "mocha --timeout 30000 ./test/**/*.js --exit",
-    "coverage": "./node_modules/.bin/nyc -r cobertura -r text-summary -r html npm test",
+    "coverage": "./node_modules/.bin/nyc -r cobertura -r text-summary -r html -r lcov npm test",
     "start": "nodemon server.js",
     "build": "webpack -p",
     "lint": "./node_modules/.bin/eslint ."
